@@ -3,7 +3,7 @@ export const information = {
     username: "EndangeredNayla",
 
     // Highlight some of your best works by providing your repository NAMES.
-    featuredRepos: []
+    featuredRepos: [],
 
     // Describe yourself, and why you should be sponsored.
     description: `
