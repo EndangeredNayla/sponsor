@@ -19,8 +19,8 @@ If you choose to donate (any amount is appreciated), the funds will help cover e
     `,
 
     // Where should they be directed to pay you?
-    payment_url: "https://gl.me/u/LwlcBjNlRHTW",
+    payment_url: "paypal.com/naylahanegan",
 
     // Only set to true if your URL supports an amount at the end, e.g. https://paypal.com/paypalme/username/20, otherwise set it to false.
-    amount_slug: false,
+    amount_slug: true,
 };
